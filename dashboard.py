@@ -4,7 +4,7 @@ import plotly.express as px
 from sklearn.preprocessing import MinMaxScaler
 
 # Load the CSV file
-csv_file = "data/Group_3_Water_Quality_Dataset.csv"
+csv_file = "Group 3 Water Quality Dataset - FINAL DATASET.csv"
 df = pd.read_csv(csv_file)
 
 # Data preprocessing
