@@ -278,15 +278,15 @@ elif page == "Deep Learning Model for Water Temperature Predictions":
     st.dataframe(df, hide_index=True)
     
     # Insert an image at the bottom
-    st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 1 Predictions 1.png", caption="Actual vs. Predicted Values", use_container_width=True)
+    st.image(r"Water Temp 1 Predictions 1.png", caption="Actual vs. Predicted Values", use_container_width=True)
 
     col1, col2 = st.columns([1, 2]) 
 
     # Column 1: Details
     with col1:
-        st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 1 Predictions 2.png", caption="Model Performance Comparisson", use_container_width=True)
+        st.image(r"Water Temp 1 Predictions 2.png", caption="Model Performance Comparisson", use_container_width=True)
     with col2:
-        st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 1 Predictions 3.png", caption="Distribution Table for Water Quality Index", use_container_width=True)
+        st.image(r"Water Temp 1 Predictions 3.png", caption="Distribution Table for Water Quality Index", use_container_width=True)
 
 # Page 8: Deep Learning Model for Predictions
 elif page == "Deep Learning Model for Water Temperature + Water Quality Predictions":
@@ -310,17 +310,17 @@ elif page == "Deep Learning Model for Water Temperature + Water Quality Predicti
 
     
     # Insert an image at the bottom
-    st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 2 Predictions 1.png", caption="Actual vs. Predicted Values", use_container_width=True)
+    st.image(r"Water Temp 2 Predictions 1.png", caption="Actual vs. Predicted Values", use_container_width=True)
 
     col1, col2 = st.columns([1, 2]) 
 
     # Column 1: Details
     with col1:
-        st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 2 Predictions 2.png", caption="Model Performance Comparisson", use_container_width=True)
+        st.image(r"Water Temp 2 Predictions 2.png", caption="Model Performance Comparisson", use_container_width=True)
     with col2:
-        st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 2 Predictions 3.png", caption="Distribution Table for Water Quality Index", use_container_width=True)
+        st.image(r"Water Temp 2 Predictions 3.png", caption="Distribution Table for Water Quality Index", use_container_width=True)
     
-    st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 2 Predictions 4.png", caption="Average Pollutant Levels per Date", use_container_width=True)
+    st.image(r"Water Temp 2 Predictions 4.png", caption="Average Pollutant Levels per Date", use_container_width=True)
 
 # Page 9: Deep Learning Model for Predictions
 elif page == "Deep Learning Model for Water Temperature + Water Quality Predictions + Volcanic Activity Predictions":
@@ -345,17 +345,17 @@ elif page == "Deep Learning Model for Water Temperature + Water Quality Predicti
 
     
     # Insert an image at the bottom
-    st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 3 Predictions 1.png", caption="Actual vs. Predicted Values", use_container_width=True)
+    st.image(r"Water Temp 3 Predictions 1.png", caption="Actual vs. Predicted Values", use_container_width=True)
 
     col1, col2 = st.columns([1, 2]) 
 
     # Column 1: Details
     with col1:
-        st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 3 Predictions 2.png", caption="Model Performance Comparisson", use_container_width=True)
+        st.image(r"Water Temp 3 Predictions 2.png", caption="Model Performance Comparisson", use_container_width=True)
     with col2:
-        st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 3 Predictions 3.png", caption="Distribution Table for Water Quality Index", use_container_width=True)
+        st.image(r"Water Temp 3 Predictions 3.png", caption="Distribution Table for Water Quality Index", use_container_width=True)
     
-    st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 3 Predictions 4.png", caption="Average Pollutant Levels per Date", use_container_width=True)
+    st.image(r"Water Temp 3 Predictions 4.png", caption="Average Pollutant Levels per Date", use_container_width=True)
 
 # Page 10: Deep Learning Model for Predictions
 elif page == "Deep Learning Model for Water Temperature + Water Quality Predictions + Volcanic Activity + Weather Predictions":
@@ -380,14 +380,14 @@ elif page == "Deep Learning Model for Water Temperature + Water Quality Predicti
 
     
     # Insert an image at the bottom
-    st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 4 Predictions 1.png", caption="Actual vs. Predicted Values", use_container_width=True)
+    st.image(r"Water Temp 4 Predictions 1.png", caption="Actual vs. Predicted Values", use_container_width=True)
 
     col1, col2 = st.columns([1, 2]) 
 
     # Column 1: Details
     with col1:
-        st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 4 Predictions 2.png", caption="Model Performance Comparisson", use_container_width=True)
+        st.image(r"Water Temp 4 Predictions 2.png", caption="Model Performance Comparisson", use_container_width=True)
     with col2:
-        st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 4 Predictions 3.png", caption="Distribution Table for Water Quality Index", use_container_width=True)
+        st.image(r"Water Temp 4 Predictions 3.png", caption="Distribution Table for Water Quality Index", use_container_width=True)
     
-    st.image(r"C:\Users\August\Documents\CPEN 106\MC02\Water Temp 4 Predictions 4.png", caption="Average Pollutant Levels per Date", use_container_width=True)
+    st.image(r"Water Temp 4 Predictions 4.png", caption="Average Pollutant Levels per Date", use_container_width=True)
