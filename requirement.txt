@@ -3,5 +3,4 @@ pandas
 plotly
 scikit-learn
 numpy
-os
 tensorflow
