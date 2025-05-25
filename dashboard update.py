@@ -80,7 +80,7 @@ def page1():
 
     # Column 2: Photo
     with col2:
-        st.image("C:/Users/August/Documents/CPEN 106/MC02/taal_lake.jpg", caption="Taal Lake", use_container_width=True)
+        st.image("taal_lake.jpg", caption="Taal Lake", use_container_width=True)
 
     # Introduce the dataset
     st.markdown("This dashboard provides an overview of the Taal Lake Water Quality dataset and its key statistics.")
@@ -328,7 +328,7 @@ members = {
     "Augustine Sengodayan": {
         "role": "📊 Lead Researcher",
         "expertise": "Data analysis & water quality modeling",
-        "photo": r"C:\Users\August\Documents\CPEN 106\MC02\Augustine Sengodayan.JPG",  # Use raw string
+        "photo": r"Augustine Sengodayan.JPG",  # Use raw string
         "bio": "Born on October 13, 2004, Augustine is a passionate third-year Computer Engineering student at Cavite State University. Augustine resides in Trece Martires City, Philippines, where they are actively working on innovative projects related to data mining and water quality prediction."
     },
 }
